@@ -27,6 +27,4 @@ To start the local Streamlit dashboard:
 streamlit run app.py
 ```
 
-## CV Highlights / Draft Bullets
-- Developed a cross-exchange funding rate arbitrage scanner pulling real-time perpetual contract rates from Binance, Bybit, OKX, and dYdX; computed annualised carry spreads and flagged opportunities exceeding configurable APR thresholds.
-- Backtested funding rate carry strategies across 12 months of historical data, analysing entry/exit timing, holding costs, and net carry returns; deployed as a live Streamlit dashboard with heatmap visualisation.
+
